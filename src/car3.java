@@ -7,7 +7,7 @@ public class car3 {
 		System.out.println("car3 ");
 		System.out.println("car3 ");
 		System.out.println("car update");
-		System.out.printlm ("i love my India");
+		System.out.println("i love my India");
 	}
 	
 	
