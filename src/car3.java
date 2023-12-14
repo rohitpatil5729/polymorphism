@@ -6,6 +6,7 @@ public class car3 {
 		String s="abc";
 		System.out.println("car3 ");
 		System.out.println("car3 ");
+		System.out.println("car update");
 	}
 	
 	
