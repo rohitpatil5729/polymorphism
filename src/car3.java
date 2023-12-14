@@ -5,7 +5,7 @@ public class car3 {
 		int b=20;
 		String s="abc";
 		System.out.println("car3 ");
-		
+		System.out.println("car3 ");
 	}
 	
 	
